@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60221f10-0414-4288-aa2a-c91bfcb566f7" name="Default Changelist" comment="">
+    <list default="true" id="60221f10-0414-4288-aa2a-c91bfcb566f7" name="Default Changelist" comment="update:">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,17 +125,34 @@
       <workItem from="1592752663355" duration="1012000" />
       <workItem from="1592841688568" duration="497000" />
       <workItem from="1595604192138" duration="9233000" />
+      <workItem from="1595747441179" duration="755000" />
     </task>
+    <task id="LOCAL-00001" summary="update: 更换groupId">
+      <created>1595747539260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595747539260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update: 更换groupId" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 更换groupId" />
   </component>
   <component name="WindowStateProjectService">
     <state x="653" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1595606185599">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="216" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1595606185599" />
+    <state x="417" y="98" key="CommitChangelistDialog2" timestamp="1595747580125">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="98" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1595747580125" />
     <state width="1638" height="364" key="GridCell.Tab.0.bottom" timestamp="1595747236321">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

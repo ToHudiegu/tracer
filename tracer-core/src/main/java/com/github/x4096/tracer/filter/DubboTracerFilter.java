@@ -30,7 +30,12 @@ public class DubboTracerFilter implements Filter {
             }
 
             if (StringUtils.isBlank(rpcTraceId)) {
-                rpcTraceId = TraceIdGeneratorUtils.generate();
+                String remoteHost = rpcContext.getRemoteHost();
+                if (null != remoteHost) {
+                    rpcTraceId = TraceIdGeneratorUtils.getTraceId(remoteHost);
+                } else {
+                    rpcTraceId = TraceIdGeneratorUtils.generate();
+                }
             }
             rpcContext.setAttachment("rpcTraceId", rpcTraceId);
         }
